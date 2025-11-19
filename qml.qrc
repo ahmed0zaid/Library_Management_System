@@ -1,0 +1,105 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/eaglesssssss.png</file>
+        <file>images/logocpp.png</file>
+        <file>images/Design sans titre (2) copy 2.png</file>
+        <file>images/Design sans titre (2) copy 3.png</file>
+        <file>images/Design sans titre (2) copy 4.png</file>
+        <file>images/Design sans titre (2) copy 5.png</file>
+        <file>images/Design sans titre (2) copy 6.png</file>
+        <file>images/Design sans titre (2) copy 7.png</file>
+        <file>images/Design sans titre (2) copy 8.png</file>
+        <file>images/Design sans titre (2).png</file>
+        <file>images/Design sans titre (3) copy 2.png</file>
+        <file>images/Design sans titre (3) copy 3.png</file>
+        <file>images/Design sans titre (3) copy.png</file>
+        <file>images/Design sans titre (3).png</file>
+        <file>images/Design sans titre (4).png</file>
+        <file>images/Design sans titre (5).png</file>
+        <file>images/Design sans titre (6).png</file>
+        <file>images/COM LOGIC.png</file>
+        <file>images/CRYPTO START.png</file>
+        <file>images/PEANY PLAN.png</file>
+        <file>images/QUICK GAINS.png</file>
+        <file>images/RICH LIFE.png</file>
+        <file>images/SAVING WAY.png</file>
+        <file>images/SMART EQUITY.png</file>
+        <file>images/TAX TRICKS.png</file>
+        <file>images/THE LEADGER.png</file>
+        <file>images/mylogo.png</file>
+        <file>images/TYTYTYTY.png</file>
+        <file>images/atttt.png</file>
+        <file>images/SBIO HACK.png</file>
+        <file>images/SBRAIN NET.png</file>
+        <file>images/SCORE LOGIC.png</file>
+        <file>images/SDARK MATTER.png</file>
+        <file>images/SDATA CORE.png</file>
+        <file>images/SDEEP CODE.png</file>
+        <file>images/SFAST SHIP.png</file>
+        <file>images/SFUTURE AI.png</file>
+        <file>images/SGREEN FUEL.png</file>
+        <file>images/SLIGHT SPEED.png</file>
+        <file>images/SNANO BOTS.png</file>
+        <file>images/SNEXT GEN.png</file>
+        <file>images/SQUATUM BIT.png</file>
+        <file>images/SSKY LAB.png</file>
+        <file>images/SSMART TECH.png</file>
+        <file>images/SH BE BOLD.png</file>
+        <file>images/SH BREAK FREE.png</file>
+        <file>images/SH CLEAR MIND.png</file>
+        <file>images/SH I CAN.png</file>
+        <file>images/SH LEVEL UP.png</file>
+        <file>images/SH LIFE KIT.png</file>
+        <file>images/SH NEW ME.png</file>
+        <file>images/SH NO LIMITS.png</file>
+        <file>images/SH PATH CLEAR.png</file>
+        <file>images/SH POWER MIND.png</file>
+        <file>images/SH SELF FIRST.png</file>
+        <file>images/SH SMART FRESH.png</file>
+        <file>images/SH STILL MIND.png</file>
+        <file>images/SH THINK BIG.png</file>
+        <file>images/SH YOU MATTER.png</file>
+        <file>images/R BROKEN VOW.png</file>
+        <file>images/R CRIMSON HEART.png</file>
+        <file>images/R ENDLESS LOVE.png</file>
+        <file>images/R FIRST KISS.png</file>
+        <file>images/R FOR EVER US.png</file>
+        <file>images/R LAST EMBRACE.png</file>
+        <file>images/R LOVE AGAIN.png</file>
+        <file>images/R LOVE BOND.png</file>
+        <file>images/R MOONLIGHT.png</file>
+        <file>images/R PURE DESIRE.png</file>
+        <file>images/R SECRET TOUCH.png</file>
+        <file>images/R SILENT.png</file>
+        <file>images/R SOUL MATE.png</file>
+        <file>images/R SWEET LIES.png</file>
+        <file>images/R TRUE HEART.png</file>
+        <file>images/NETWRTH.png</file>
+        <file>images/H ANCIENT WAR.png</file>
+        <file>images/H BATTLE CRY.png</file>
+        <file>images/H COLD WAR.png</file>
+        <file>images/H CROWN.png</file>
+        <file>images/H DARK AGE.png</file>
+        <file>images/H EMOIRE RISE.png</file>
+        <file>images/H GLORY DAYS.png</file>
+        <file>images/H GOLD TRAIL.png</file>
+        <file>images/H IRONAGE.png</file>
+        <file>images/H KINGDOOM FALL.png</file>
+        <file>images/H LAST LAND.png</file>
+        <file>images/H OLD KINGS.png</file>
+        <file>images/H OLD ROOTS.png</file>
+        <file>images/H PAST ECHO.png</file>
+        <file>images/H WAR PATH.png</file>
+    </qresource>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>signup.qml</file>
+        <file>login.qml</file>
+        <file>homeROMANCE.qml</file>
+        <file>homeFINANCE.qml</file>
+        <file>homeSELF.qml</file>
+        <file>homeSCIENCE.qml</file>
+        <file>homeHISTORY.qml</file>
+        <file>booking.qml</file>
+    </qresource>
+</RCC>
